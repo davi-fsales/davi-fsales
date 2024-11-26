@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra um contato melhor comigo, se liga nas minhas outras redes 👌
+### Para um contato melhor comigo, se liga nas minhas outras redes 👌
  
 <div> 
   <a href="https://instagram.com/davifsales" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
